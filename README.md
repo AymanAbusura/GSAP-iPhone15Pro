@@ -1,5 +1,4 @@
 # GSAP-iPhone15Pro
-### :man_technologist: About Me :
 This project focuses on rebuilding the Apple iPhone 15 Pro website by integrating GSAP animations and 3D effects using Three.js. It provides a comprehensive tutorial on creating everything from unique animations to interactive 3D models.
 
 ### :hammer_and_wrench: Languages and Tools :
